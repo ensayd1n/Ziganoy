@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Joystick
+  - HealthFill
+  - HealthSlider
+  - ScorText
+  - GameManager
+  - MagicEffect
+  - MagicButton
+  - HealEffect
+  - UnderDrop
+  - PlayerTakenDamageArea
+  - MagicSkillArea
+  - ZombieCharacter
+  - Zombie
+  - ZombieInstantiateTransform
+  - Map
+  - Potion
+  - ZombieAttackTriggerArea
+  - mushroom
+  - EnemySlowDownSkillButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
